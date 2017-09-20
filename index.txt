@@ -1,3 +1,5 @@
 Hi This is first line of index.txt 
 
+This is new line in between by another developer
+
 Hi added two new lines
