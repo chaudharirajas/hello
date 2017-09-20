@@ -1,7 +1,1 @@
-Hi This is first line of index.txt
-
-This is line in between by me 
-
-This is new line in between by another developer
-
-Hi added two new lines
+Hi This is development version
