@@ -1,1 +1,3 @@
-Hi This is first line of index.txt
+Hi This is first line of index.txt 
+
+Hi added two new lines
